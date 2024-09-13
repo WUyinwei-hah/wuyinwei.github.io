@@ -20,7 +20,7 @@ Now I'm working in the area of controllable 2D/3D generation.
 
 
 # 📝 Publications 
-My full paper list is shown at [google scholar]([https://rayeren.github.io](https://scholar.google.com/citations?user=4XGlXHgAAAAJ)).
+My full paper list is shown at [google scholar](https://scholar.google.com/citations?user=4XGlXHgAAAAJ).
 
 <div class='paper-box' style="margin-bottom: 20px"><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cover.png' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
