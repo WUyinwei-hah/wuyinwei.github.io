@@ -19,10 +19,10 @@ My full paper list is shown at [google scholar](https://scholar.google.com/citat
 </div>
 
 
-`Computers & Security` [DroidRL: Feature selection for android malware detection with reinforcement learning](https://www.sciencedirect.com/science/article/abs/pii/S0167404823000366)
+`Computers & Security 2023` [DroidRL: Feature selection for android malware detection with reinforcement learning](https://www.sciencedirect.com/science/article/abs/pii/S0167404823000366)
 
 **Yinwei Wu**, Meijin Li, Qi Zeng, Tao Yang, Junfeng Wang, Zhiyang Fang, Luyu Cheng
 
-`Applied Artificial Intelligence` [A systematic overview of android malware detection](https://www.tandfonline.com/doi/full/10.1080/08839514.2021.2007327)
+`Applied Artificial Intelligence 2022` [A systematic overview of android malware detection](https://www.tandfonline.com/doi/full/10.1080/08839514.2021.2007327)
 
 Li Meijin, Fang Zhiyang, Wang Junfeng, Cheng Luyu, Zeng Qi, Yang Tao, **Wu Yinwei**, Geng Jiaxuan
