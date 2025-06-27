@@ -1,3 +1,4 @@
+<span class='anchor' id='-publications'></span>
 # 📝 Publications 
 My full paper list is shown at [google scholar](https://scholar.google.com/citations?user=4XGlXHgAAAAJ).
 
@@ -9,7 +10,7 @@ My full paper list is shown at [google scholar](https://scholar.google.com/citat
 </div>
 </div>
 
-<div class='paper-box' style="margin-bottom: 20px"><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/fig1.png' width="100%"></div></div>
+<div class='paper-box' style="margin-bottom: 20px"><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/fig1.png' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IFAdapter: Instance feature control for grounded Text-to-Image Generation](https://ifadapter.github.io/)

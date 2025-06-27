@@ -1,4 +1,4 @@
-
+<span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2023.06* Sichuan University **Elite of Software Engineering (软件之英)** Nomination (Top 3%)
 - *2023.06* Sichuan University **Outstanding Thesis** (Top 10%)
