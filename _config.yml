@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yinwei Wu (伍胤玮)"
-description              : "Master student @ NUS LV Lab"
+description              : "PhD Student @ The Hong Kong Polytechnic University (PolyU), Department of Data Science and Artificial Intelligence (DSAI). Advised by Prof. Xingyi Yang."
 repository               : "WUyinwei-hah/wuyinwei.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yinwei Wu (伍胤玮)"
   avatar           : "images/avatar.jpeg"
-  bio              : "National University of Singapore"
-  location         : "Singapore"
+  bio              : "Hong Kong Polytechnic University"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4XGlXHgAAAAJ"
-  email            : "wuyinwei@u.nus.edu"
+  email            : "yinwei.wu@connect.polyu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
